@@ -143,9 +143,6 @@ http://181.13.252.102:8000/play/a02c/index.m3u8?hls
 #EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true" group-title="Cine", HBO Xtreme
 http://181.13.252.102:8000/play/a02b/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/paramount-network-ar.png?raw=true" group-title="Cine", Paramount HD
-http://181.13.252.102:8000/play/a02y/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true" group-title="Cine", Sony Channel HD
 http://181.13.252.102:8000/play/a05d/index.m3u8?hls
 
