@@ -1,0 +1,91 @@
+
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina1.xml"
+
+#EXTINF:-1 tvg-id="ESPN.Premium.ar" group-title="Deportes",ESPN Premium
+https://latam-cache-sv2-cdn.latamlive.net/ESPNPREMIUM_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.ar" group-title="Deportes",TNT Sports
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="DSports.ar" group-title="Deportes",DSports
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="L1.Max.pe" group-title="Deportes",L1 Max
+https://latam-cache-sv2-cdn.latamlive.net/L1MAX_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="ESPN.ar" group-title="Deportes",ESPN
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="ESPN2.ar" group-title="Deportes",ESPN 2
+https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="ESPN3.ar" group-title="Deportes",ESPN 3
+https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="ESPN4.ar" group-title="Deportes",ESPN 4
+https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Fox.Sports.ar" group-title="Deportes",Fox Sports
+https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Fox.Sports2.ar" group-title="Deportes",Fox Sports 2
+https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS2_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Fox.Sports3.ar" group-title="Deportes",Fox Sports 3
+https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS3_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="TyC.Sports.ar" group-title="Deportes",TyC Sports
+https://latam-cache-sv2-cdn.latamlive.net/TYC_SPORTS_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="DSports.Plus.ar" group-title="Deportes",DSports Plus
+https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-id="HBO.ar" group-title="Cine y Series",HBO
+https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="HBO2.ar" group-title="Cine y Series",HBO 2
+https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="HBO.Family.ar" group-title="Cine y Series",HBO Family
+https://latam-cache-sv2-cdn.latamlive.net/HBO_FAMILY_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="HBO.Xtreme.ar" group-title="Cine y Series",HBO Xtreme
+https://latam-cache-sv2-cdn.latamlive.net/HBO_XTREME_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="HBO.Mundi.ar" group-title="Cine y Series",HBO Mundi
+https://latam-cache-sv2-cdn.latamlive.net/HBO_MUNDI_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="HBO.Signature.ar" group-title="Cine y Series",HBO Signature
+https://latam-cache-sv2-cdn.latamlive.net/HBO_SIGNATURE_AR_HD_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="HBO.Plus.ar" group-title="Cine y Series",HBO Plus
+https://latam-cache-sv2-cdn.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="HBO.Pop.ar" group-title="Cine y Series",HBO Pop
+https://latam-cache-sv2-cdn.latamlive.net/HBO_POP_AR_HD_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Universal.Cinema.la" group-title="Cine y Series",Universal Cinema
+https://latam-cache-sv2-cdn.latamlive.net/UCINEMA_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Universal.Reality.la" group-title="Cine y Series",Universal Reality
+https://latam-cache-sv2-cdn.latamlive.net/UREALITY_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Universal.Crime.la" group-title="Cine y Series",Universal Crime
+https://latam-cache-sv2-cdn.latamlive.net/UCRIME_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Universal.Premiere.la" group-title="Cine y Series",Universal Premiere
+https://latam-cache-sv2-cdn.latamlive.net/UPREMIERE_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Universal.Comedy.la" group-title="Cine y Series",Universal Comedy
+https://latam-cache-sv2-cdn.latamlive.net/UCOMEDY_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Universal.Channel.ar" group-title="Cine y Series",Universal Channel
+http://latam-cache-sv2-cdn.latamlive.net/UCHANNEL_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="TNT.ar" group-title="Cine y Series",TNT
+http://latam-cache-sv2-cdn.latamlive.net/TNT_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Sony.Channel.ar" group-title="Cine y Series",Sony Channel
+http://latam-cache-sv2-cdn.latamlive.net/SONY_CHANNEL_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="FX.ar" group-title="Cine y Series",FX
+http://latam-cache-sv2-cdn.latamlive.net/FX_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 tvg-id="A24.ar" group-title="TV Arg",A24
+http://latam-cache-sv2-cdn.latamlive.net/A24_ARG_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Cronica.TV.ar" group-title="TV Arg",Cronica TV
+http://latam-cache-sv2-cdn.latamlive.net/CRONICA_TV_ARG_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Canal13.ar" group-title="TV Arg",Canal 13
+http://latam-cache-sv2-cdn.latamlive.net/CANAL_13_HD_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="TV.Publica.ar" group-title="TV Arg",TV Publica
+http://latam-cache-sv2-cdn.latamlive.net/TV_PUBLICA_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="LN.Mas.ar" group-title="TV Arg",LN+
+http://latam-cache-sv2-cdn.latamlive.net/LANACIONMAS_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="C5N.ar" group-title="TV Arg",C5N
+http://latam-cache-sv2-cdn.latamlive.net/C5N_AR_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="TN.ar" group-title="TV Arg",TN
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Canal9.ar" group-title="TV Arg",Canal 9
+http://latam-cache-sv2-cdn.latamlive.net/EL_NUEVE_HD_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="America.TV.ar" group-title="TV Arg",America TV
+http://latam-cache-sv2-cdn.latamlive.net/AMERICA_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Telefe.ar" group-title="TV Arg",Telefe
+https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="Home.and.Health.ar" group-title="Variedades",Discovery Home & Health
+http://latam-cache-sv2-cdn.latamlive.net/HOMEANDHEALTH_IP_ENC_LIVE/index.mpd
+
+
+
+
