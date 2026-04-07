@@ -86,6 +86,10 @@ https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-id="Home.and.Health.ar" group-title="Variedades",Discovery Home & Health
 http://latam-cache-sv2-cdn.latamlive.net/HOMEANDHEALTH_IP_ENC_LIVE/index.mpd
 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.imgur.com/zV8m8Xz.png" group-title="DEPORTES", ESPN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd
 
 
 
