@@ -236,6 +236,9 @@ http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbNJiNZ8Z8VRpUesW99XbQeM36YvYzK
 #EXTINF:-1 tvg-id="M+ Cine" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA", Movistar Cine FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbNJiNZ8Z8VRpUesW99XbQeNQkQ3AMYdaCuVZLHVbk9xM/ts
 
+#EXTINF:-1 tvg-id="Movistar Plus+" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA", Movistar Plus HD
+http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-WrEiY-HXXo73TmCDneFZpOp/ts
+
 #EXTINF:-1 tvg-id="Movistar Plus+" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA", Movistar Plus FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-WoMjWLzv-cmdK4WVZEx2yzZ/ts
 
