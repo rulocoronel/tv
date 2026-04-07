@@ -98,9 +98,9 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 #EXT-X-DASH-DRM:LICENSE_KEY=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="America.ar", AMERICA TV 3
-#EXT-X-KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXT-X-KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 tvg-id="America.ar", group-title="AIRE", AMERICA TV 3
+#EXT-X-DASH-DRM:LICENSE_TYPE=clearkey
+#EXT-X-DASH-DRM:LICENSE_URL=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 
 
