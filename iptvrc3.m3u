@@ -98,6 +98,12 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 #EXT-X-DASH-DRM:LICENSE_KEY=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 
+#EXTINF:-1 tvg-id="America.ar", AMERICA TV 3
+#EXT-X-KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXT-X-KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
+
+
 #EXTINF:-1 tvg-id="Telefe.ar" group-title="AIRE", TELEFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
