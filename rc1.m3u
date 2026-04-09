@@ -233,7 +233,7 @@ http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbNJiNZ8Z8VRpUesW99XbQeM36YvYzK
 #EXTINF:-1 tvg-id="M+Estrenos.es" tvg-logo="https://images.open-epg.com/12901101.png" group-title="ESPAÑA", Movistar Estrenos FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbNJiNZ8Z8VRpUesW99XbQeNQkQ3AMYdaCuVZLHVbk9xM/ts
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones.es" tvg-logo="https://images.open-epg.com/12901130.png" group-title="ESPAÑA", Movistar Plus+ FHD
+#EXTINF:-1 tvg-id="LigadeCampeones.es" tvg-logo="https://images.open-epg.com/12901130.png" group-title="ESPAÑA", Movistar Plus+ FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-WoMjWLzv-cmdK4WVZEx2yzZ/ts
 
 #EXTINF:-1 tvg-id="M+Comedia.es" tvg-logo="https://images.open-epg.com/12901090.png" group-title="ESPAÑA", Movistar Comedia FHD
