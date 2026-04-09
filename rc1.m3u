@@ -227,32 +227,29 @@ http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbGTjscqNpPp3DsBbZnCWFYVTyHeU_d
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="http://discusfish.xyz:25461/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="ESPAÑA", La 2 FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbGTjscqNpPp3DsBbZnCWFYVaf-KWpCpd_VZmzIu3BTzu/ts
 
-#EXTINF:-1 tvg-id="MOriginales.es" tvg-logo="http://discusfish.xyz:25461/images/74f0a7fda137c90fc9ec400fe663e2d8.png" group-title="ESPAÑA", Movistar Originales FHD
+#EXTINF:-1 tvg-id="M+ Originales.es" tvg-logo="http://discusfish.xyz:25461/images/74f0a7fda137c90fc9ec400fe663e2d8.png" group-title="ESPAÑA", Movistar Originales FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbNJiNZ8Z8VRpUesW99XbQePu5hHX5vdWuT2-r_g3Gw1d/ts
 
-#EXTINF:-1 tvg-id="MAccion.es" tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png" group-title="ESPAÑA", Movistar Accion FHD
+#EXTINF:-1 tvg-id="M+ Accion.es" tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png" group-title="ESPAÑA", Movistar Accion FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbNJiNZ8Z8VRpUesW99XbQeM36YvYzKuA4JX6ATwG4pl5/ts
 
-#EXTINF:-1 tvg-id="MEstrenos.es" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA", Movistar Estrenos FHD
+#EXTINF:-1 tvg-id="M+ Estrenos.es" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA", Movistar Estrenos FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbNJiNZ8Z8VRpUesW99XbQeNQkQ3AMYdaCuVZLHVbk9xM/ts
 
-#EXTINF:-1 tvg-id="MovistarPlus.es" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA", Movistar Plus+ FHD
+#EXTINF:-1 tvg-id="M+ Deportes.es" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA", Movistar Plus+ FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-WoMjWLzv-cmdK4WVZEx2yzZ/ts
 
-#EXTINF:-1 tvg-id="MComedia.es" tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="ESPAÑA", Movistar Comedia FHD
+#EXTINF:-1 tvg-id="M+ Comedia.es" tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="ESPAÑA", Movistar Comedia FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-Wpp7dgTI4sSjbMKwaEVaALN/ts
 
-#EXTINF:-1 tvg-id="MCineEspanyol.es" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png" group-title="ESPAÑA", Movistar Cine Español FHD
+#EXTINF:-1 tvg-id="M+ Cine Español.es" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png" group-title="ESPAÑA", Movistar Cine Español FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-WpCN8g-GV2YZs1kML5qGBuU/ts
 
-#EXTINF:-1 tvg-id="MDrama.es" tvg-logo="http://discusfish.xyz:25461/images/9781ccb297f50e85a9af8e31321fddd7.png" group-title="ESPAÑA", Movistar Drama FHD
+#EXTINF:-1 tvg-id="M+ Drama.es" tvg-logo="http://discusfish.xyz:25461/images/9781ccb297f50e85a9af8e31321fddd7.png" group-title="ESPAÑA", Movistar Drama FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqXd1eYoAj9OVBH62svXYR3m/ts
 
-#EXTINF:-1 tvg-id="MClasicos.es" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="ESPAÑA", Movistar Clasicos FHD
+#EXTINF:-1 tvg-id="M+ Clásicos.es" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="ESPAÑA", Movistar Clasicos FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqVMoW9aQsWvWo25dhIYiSu3/ts
 
-#EXTINF:-1 tvg-id="MSeries.es" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA", Movistar Hits FHD
-http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqWaiUxvbN9AZna8UuHJfLH0/ts
-
-#EXTINF:-1 tvg-id="M+ Series" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA", Movistar Series FHD
+#EXTINF:-1 tvg-id="M+ Hits.es" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA", Movistar Hits FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqWaiUxvbN9AZna8UuHJfLH0/ts
