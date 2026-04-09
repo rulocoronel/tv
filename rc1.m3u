@@ -250,3 +250,18 @@ http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqVMoW9aQs
 
 #EXTINF:-1 tvg-id="M+Hits.es" tvg-logo="https://images.open-epg.com/12901104.png" group-title="ESPAÑA", Movistar Hits FHD
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqWaiUxvbN9AZna8UuHJfLH0/ts
+
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-logo="https://images.open-epg.com/12901049.png" group-title="ESPAÑA", DAZN F1
+http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbMaXKP0qysA6t6mkXv6YMlKFEnpUVDBJx2wOVdFHulLH/ts
+
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-logo="https://images.open-epg.com/12901049.png" group-title="ESPAÑA", DAZN F1 4K
+http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbLjM6bZOVm9peigrS1nKpIGvnX38qnCmjf240I5L5mGU/ts
+
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-logo="https://images.open-epg.com/12901042.png" group-title="ESPAÑA", DAZN 1
+http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbG4D-EJ_2sOLlr9y_JgpuLbbQeo2kha0y6kCcROrqXof/ts
+
+#EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-logo="https://images.open-epg.com/12901051.png" group-title="ESPAÑA", DAZN La Liga 1
+http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbOIcjkgR4uqud7Bbyemt2FCFomNWLnHo5mZGsKweP3Yp/ts
+
+#EXTINF:-1 tvg-id="DAZNLALIGA 2.es" tvg-logo="https://images.open-epg.com/12901050.png" group-title="ESPAÑA", DAZN La Liga 2
+http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbOIcjkgR4uqud7Bbyemt2FBU9AJXzWsrfAOnQIX3PLcl/ts
