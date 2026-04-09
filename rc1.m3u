@@ -41,9 +41,6 @@ http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="DEPORTES", FOX Sports 3
 http://181.13.252.102:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN F1.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzTT4DVzx1LthguqZf7i3SWYcSG0ACQttJg&s" group-title="DEPORTES", DAZN F1
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/145
-
 # --- UK ---
 #EXTINF:-1 tvg-id="SkySp.F1.UHD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="UK",Sky Sports F1 UHD
 https://7pal.short.gy/SSF1uhd
