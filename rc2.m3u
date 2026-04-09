@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/generate/SebVYgarkQ.xml"
+#EXTM3U x-tvg-url="https://open-epg.com/xml/SebVYgarkQ.xml,https://open-epg.com/xml/spain1.xml"
 
 # --- NACIONALES ---
 #EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="Arg", America TV
