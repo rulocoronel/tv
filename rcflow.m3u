@@ -10,7 +10,7 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_cenc/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="TVPublica.ar" group-title="NACIONALES", TV PUBLICA
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" group-title="NACIONALES", TV PUBLICA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_cenc/Canal7.mpd
@@ -35,12 +35,12 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-id="TyCSportsInt.ar" group-title="DEPORTES", TyC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-id="TyC Sports Int.ar" group-title="DEPORTES", TyC SPORTS INTERNACIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_cenc/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-id="DeporTV.ar" group-title="DEPORTES", DEPORTV
+#EXTINF:-1 tvg-id="Depor TV.ar" group-title="DEPORTES", DEPORTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_cenc/DeporTVHD.mpd
@@ -55,22 +55,22 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.mpd
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN2.ar" group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" group-title="DEPORTES", ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd
 
-#EXTINF:-1 tvg-id="ESPN3.ar" group-title="DEPORTES", ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3.ar" group-title="DEPORTES", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
 https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_cenc/ESPN3.mpd
 
-#EXTINF:-1 tvg-id="ESPN4.ar" group-title="DEPORTES", ESPN 4
+#EXTINF:-1 tvg-id="ESP 4.ar" group-title="DEPORTES", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd
 
-#EXTINF:-1 tvg-id="ESPN6.ar" group-title="DEPORTES", ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5.ar" group-title="DEPORTES", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_cenc/ESPN4.mpd
@@ -90,27 +90,27 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_cenc/FoxSports2HD
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_cenc/FoxSports3HD.mpd
 
-#EXTINF:-1 tvg-id="NBATV.us" group-title="DEPORTES", NBA TV
+#EXTINF:-1 tvg-id="NBA TV.us" group-title="DEPORTES", NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_cenc/NBA_TV.mpd
 
-#EXTINF:-1 tvg-id="ElGarage.ar" group-title="DEPORTES", EL GARAGE
+#EXTINF:-1 tvg-id="El Garage.ar" group-title="DEPORTES", EL GARAGE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
 https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_cenc/El_Garage.mpd
 
-#EXTINF:-1 tvg-id="GolfChannel.us" group-title="DEPORTES", GOLF CHANNEL
+#EXTINF:-1 tvg-id="Golf Channel.us" group-title="DEPORTES", GOLF CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
 https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_cenc/Golf_Channel.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us" group-title="DEPORTES", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="Discovery Turbo.us" group-title="DEPORTES", DISCOVERY TURBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_cenc/DiscoveryTurbo.mpd
 
-#EXTINF:-1 tvg-id="AmericaSports.ar" group-title="DEPORTES", AMERICA SPORTS
+#EXTINF:-1 tvg-id="America Sports.ar" group-title="DEPORTES", AMERICA SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_cenc/America_Sports.mpd
@@ -135,7 +135,7 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_cenc/La_Nacion.mpd
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_cenc/C5N.mpd
 
-#EXTINF:-1 tvg-id=""CRONICA TV.ar" group-title="NOTICIAS", CRONICA TV
+#EXTINF:-1 tvg-id="CRONICA TV.ar" group-title="NOTICIAS", CRONICA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_cenc/CronicaTV.mpd
@@ -155,7 +155,7 @@ https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_cenc/America24.mpd
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_cenc/Magazine.mpd
 
-#EXTINF:-1 tvg-id="NetTV.ar" group-title="NOTICIAS", NET TV
+#EXTINF:-1 tvg-id="Net TV.ar" group-title="NOTICIAS", NET TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_cenc/Net_TV.mpd
@@ -165,17 +165,17 @@ https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_cenc/Net_TV.mpd
 #KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_cenc/Encuentro.mpd
 
-#EXTINF:-1 tvg-id="CNNEspanol.us" group-title="NOTICIAS", CNN EN ESPAÑOL
+#EXTINF:-1 tvg-id="CNN Español.us" group-title="NOTICIAS", CNN EN ESPAÑOL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_cenc/CNN_en_Espanol.mpd
 
-#EXTINF:-1 tvg-id="IPNoticias.ar" group-title="NOTICIAS", IP NOTICIAS
+#EXTINF:-1 tvg-id="IP noticias.ar" group-title="NOTICIAS", IP NOTICIAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_cenc/Investigacion_Periodistica.mpd
 
-#EXTINF:-1 tvg-id="BravoTV.ar" group-title="NOTICIAS", BRAVO TV
+#EXTINF:-1 tvg-id="Bravo TV.ar" group-title="NOTICIAS", BRAVO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_cenc/BravoTV.mpd
@@ -230,7 +230,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_cenc/Flow_Music_1
 #KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_cenc/Flow_Music_2.mpd
 
-#EXTINF:-1 tvg-id="INCAATV.ar" group-title="CINE Y SERIES", INCAA TV
+#EXTINF:-1 tvg-id="INCAA TV.ar" group-title="CINE Y SERIES", INCAA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_cenc/INCAA_Tv.mpd
@@ -310,7 +310,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_cenc/AEHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
 https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_cenc/Europa_Europa.mpd
 
-#EXTINF:-1 tvg-id="USANetwork.ar" group-title="CINE Y SERIES", USA NETWORK
+#EXTINF:-1 tvg-id="USA" group-title="CINE Y SERIES", USA NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_cenc/USA_Network.mpd
@@ -360,7 +360,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_cenc/ID.mpd
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
 https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_cenc/ComedyCentral.mpd
 
-#EXTINF:-1 tvg-id="Paramount Network.ar" group-title="CINE Y SERIES", PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.ar" group-title="CINE Y SERIES", PARAMOUNT NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
 https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_cenc/Paramount.mpd
@@ -405,7 +405,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_cenc/Adult_Swim.mpd
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
 https://cdn.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd
 
-#EXTINF:-1 tvg-id="HBO2.ar" group-title="HBO", HBO 2
+#EXTINF:-1 tvg-id="HBO 2.ar" group-title="HBO", HBO 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
 https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_cenc/HBO_2.mpd
@@ -425,7 +425,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_cenc/HBO_Mundi.mpd
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_cenc/HBO_POP.mpd
 
-#EXTINF:-1 tvg-id="HBO Extreme.ar" group-title="HBO", HBO EXTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.ar" group-title="HBO", HBO EXTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_cenc/HBO_Extreme.mpd
@@ -470,7 +470,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_cenc/Univers
 #KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
 https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_cenc/NatGeoHD.mpd
 
-#EXTINF:-1 tvg-id="Discovery.ar" group-title="DOCUMENTALES", DISCOVERY
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.ar" group-title="DOCUMENTALES", DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_cenc/DiscoveryHD.mpd
@@ -480,17 +480,17 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_cenc/DiscoveryHD.m
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
 https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_cenc/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-id="Discovery Theater.us" group-title="DOCUMENTALES", DISCOVERY THEATER
+#EXTINF:-1 tvg-id="DISCOVERY THEATER.ar" group-title="DOCUMENTALES", DISCOVERY THEATER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_cenc/Theater_HD.mpd
 
-#EXTINF:-1 tvg-id="History.ar" group-title="DOCUMENTALES", HISTORY
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.ar" group-title="DOCUMENTALES", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_cenc/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="CanalA.ar" group-title="DOCUMENTALES", CANAL A
+#EXTINF:-1 tvg-id="Canal A.ar" group-title="DOCUMENTALES", CANAL A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
 https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_cenc/Canal_a.mpd
@@ -500,22 +500,22 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_cenc/Canal_a.mpd
 #KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
 https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_cenc/Film_Arts.mpd
 
-#EXTINF:-1 tvg-id="History2.ar" group-title="DOCUMENTALES", HISTORY 2
+#EXTINF:-1 tvg-id="HISTORY 2.ar" group-title="DOCUMENTALES", HISTORY 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_cenc/History_2.mpd
 
-#EXTINF:-1 tvg-id="Discovery World.us" group-title="DOCUMENTALES", DISCOVERY WORLD
+#EXTINF:-1 tvg-id="DISCOVERY WORLD.ar" group-title="DOCUMENTALES", DISCOVERY WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_cenc/Discovery_World_HD.mpd
 
-#EXTINF:-1 tvg-id="Discovery Science.us" group-title="DOCUMENTALES", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" group-title="DOCUMENTALES", DISCOVERY SCIENCE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_cenc/Discovery_Science.mpd
 
-#EXTINF:-1 tvg-id="Discovery Turbo.ar" group-title="DOCUMENTALES", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.ar" group-title="DOCUMENTALES", DISCOVERY TURBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_cenc/DiscoveryTurbo.mpd
@@ -545,7 +545,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_cenc/Food_Network
 #KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
 https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_cenc/E_Entertainment_Television.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.ar" group-title="VARIEDADES", DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-id="DISCOVERY HOME and GARDEN.ar" group-title="VARIEDADES", DISCOVERY HOME & HEALTH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_cenc/DiscoveryHomeHealthHD.mpd
@@ -560,7 +560,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_cenc/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2
 https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_cenc/Home_and_Garden.mpd
 
-#EXTINF:-1 tvg-id="HolaTV.us" group-title="VARIEDADES", HOLA TV
+#EXTINF:-1 tvg-id="Hola TV.ar" group-title="VARIEDADES", HOLA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
 https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_cenc/Hola_TV.mpd
@@ -569,11 +569,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_cenc/Hola_TV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
 https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_cenc/Canal_Rural.mpd
-
-#EXTINF:-1 tvg-id="LatamRural.ar" group-title="VARIEDADES", LATAM RURAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abdfd83824e9ba585f74fb72c647aa4f:9967e06e39893998d16714988d9d87f1
-https://cdn.cvattv.com.ar/live/c4eds/Latam_Rural/SA_Live_dash_cenc/Latam_Rural.mpd
 
 #EXTINF:-1 tvg-id="SunChannel.ve" group-title="VARIEDADES", SUN CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -630,7 +625,7 @@ https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_cenc/MTV00.mpd
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_cenc/HTV.mpd
 
-#EXTINF:-1 tvg-id="CM.ar" group-title="MUSICA", CM
+#EXTINF:-1 tvg-id="CANAL DE LA MUSICA.ar" group-title="MUSICA", CM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_cenc/CM.mpd
@@ -665,12 +660,12 @@ https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_cenc/Flow_Music_2
 #KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_cenc/Flow_Music_3.mpd
 
-#EXTINF:-1 tvg-id="PakaPaka.ar" group-title="INFANTILES", PAKA PAKA
+#EXTINF:-1 tvg-id="Paka Paka.ar" group-title="INFANTILES", PAKA PAKA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_cenc/PAKA_PAKA.mpd
 
-#EXTINF:-1 tvg-id="DisneyChannel.ar" group-title="INFANTILES", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="Disney Channel.ar" group-title="INFANTILES", DISNEY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
 https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_cenc/DisneyChannelHD.mpd
@@ -680,7 +675,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_cenc/DisneyCha
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
 https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_cenc/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="CartoonNetwork.ar" group-title="INFANTILES", CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network.ar" group-title="INFANTILES", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
 https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_cenc/CartoonNetwork.mpd
@@ -690,7 +685,7 @@ https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_cenc/CartoonNet
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_cenc/Dreamworks.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryKids.ar" group-title="INFANTILES", DISCOVERY KIDS
+#EXTINF:-1 tvg-id="Discovery Kids.ar" group-title="INFANTILES", DISCOVERY KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_cenc/Discovery_Kids.mpd
@@ -700,27 +695,27 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_cenc/Discovery_
 #KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
 https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_cenc/Boomerang.mpd
 
-#EXTINF:-1 tvg-id="DisneyJunior.ar" group-title="INFANTILES", DISNEY JUNIOR
+#EXTINF:-1 tvg-id="Disney Junior.ar" group-title="INFANTILES", DISNEY JUNIOR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
 https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_cenc/DisneyJr.mpd
 
-#EXTINF:-1 tvg-id="BabyTV.us" group-title="INFANTILES", BABY TV
+#EXTINF:-1 tvg-id="Baby TV.ar" group-title="INFANTILES", BABY TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
 https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_cenc/BabyTV.mpd
 
-#EXTINF:-1 tvg-id="Tooncast.us" group-title="INFANTILES", TOONCAST
+#EXTINF:-1 tvg-id="Tooncast.ar" group-title="INFANTILES", TOONCAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_cenc/Tooncast.mpd
 
-#EXTINF:-1 tvg-id="NickJunior.ar" group-title="INFANTILES", NICK JR
+#EXTINF:-1 tvg-id="NICK JR.ar" group-title="INFANTILES", NICK JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
 https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_cenc/Nick_Jr.mpd
 
-#EXTINF:-1 tvg-id="PlimPlim.ar" group-title="INFANTILES", PLIM PLIM
+#EXTINF:-1 tvg-id="Plim Plim.ar" group-title="INFANTILES", PLIM PLIM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
 https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_cenc/Plim_Plim.mpd
@@ -740,12 +735,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_cenc/Venus.mpd
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
 https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_cenc/Playboy.mpd
 
-#EXTINF:-1 tvg-id="HustlerTV.us" group-title="ADULTOS (+18)", HUSTLER TV
+#EXTINF:-1 tvg-id="HustlerTV.ar" group-title="ADULTOS (+18)", HUSTLER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2
 https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_cenc/Hustler.mpd
 
-#EXTINF:-1 tvg-id="Sextreme.us" group-title="ADULTOS (+18)", SEXTREME
+#EXTINF:-1 tvg-id="Sextreme.ar" group-title="ADULTOS (+18)", SEXTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_cenc/Sextreme.mpd
