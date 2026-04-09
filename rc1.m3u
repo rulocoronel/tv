@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/SebVYgarkQ.xml"
 
-#EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="ARG",America
+#EXTINF:-1 tvg-id="AMERICATV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="ARG",America
 http://181.13.252.102:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true" group-title="ARG",Telefe
