@@ -231,13 +231,13 @@ http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-WoMjWLzv-
 #EXTINF:-1 tvg-id="M+Comedia.es" tvg-name="Movistar Comedia FHD" tvg-logo="https://images.open-epg.com/12901090.png" group-title="ESPAÑA",Movistar Comedia
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-Wpp7dgTI4sSjbMKwaEVaALN/ts
 
-#EXTINF:-1 tvg-id="M+CineEspanol.es" tvg-name="Movistar Cine Español FHD" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png" group-title="ESPAÑA",Movistar Cine Español
+#EXTINF:-1 tvg-id="M+CineEspanol.es" tvg-name="Movistar Cine Español FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA",Movistar Cine Español
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbBcUmPirzrtxsvIZl0L5-WpCN8g-GV2YZs1kML5qGBuU/ts
 
 #EXTINF:-1 tvg-id="M+Drama.es" tvg-name="Movistar Drama FHD" tvg-logo="https://images.open-epg.com/12901099.png" group-title="ESPAÑA",Movistar Drama
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqXd1eYoAj9OVBH62svXYR3m/ts
 
-#EXTINF:-1 tvg-id="M+Clasicos.es" tvg-name="Movistar Clasicos FHD" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="ESPAÑA",Movistar Clasicos
+#EXTINF:-1 tvg-id="M+Clasicos.es" tvg-name="Movistar Clasicos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA",Movistar Clasicos
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbIEyKMFOAovBya051xIdfqVMoW9aQsWvWo25dhIYiSu3/ts
 
 #EXTINF:-1 tvg-id="M+Hits.es" tvg-name="Movistar Hits FHD" tvg-logo="https://images.open-epg.com/12901104.png" group-title="ESPAÑA",Movistar Hits
