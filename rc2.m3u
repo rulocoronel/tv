@@ -1,45 +1,46 @@
-#EXTM3U x-tvg-url="https://open-epg.com/xml/SebVYgarkQ.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina1.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
 
 # --- NACIONALES ---
 #EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="Arg", America TV
-http://181.209.38.162:8000/play/a007
+http://45.5.151.62:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true" group-title="Arg", Telefe 
-http://181.209.38.162:8000/play/a00w
+
 
 #EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Arg", El Trece
-http://181.209.38.162:8000/play/a00x
+
 
 # --- DEPORTES ---
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
-http://181.209.38.162:8000/play/a01q
+http://45.5.151.62:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes", TNT Sports Premium
-http://181.209.38.162:8000/play/a035
+
 
 #EXTINF:-1 ch-number="101" tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
-http://181.209.38.162:8000/play/a00t
+http://45.5.151.62:8000/play/a00o/index.m3u8
 
-#EXTINF:-1 ch-number="102" tvg-id="ESPN2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes", ESPN 2
-http://181.209.38.162:8000/play/a00b
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes", ESPN 2
+http://45.5.151.62:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 ch-number="103" tvg-id="ESPN3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
-http://181.209.38.162:8000/play/a00c
+#EXTINF:-1 ch-number="103" tvg-id="ESPN 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
+http://45.5.151.62:8000/play/a00q/index.m3u8
 
-#EXTINF:-1 ch-number="104" tvg-id="ESPN4.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
-http://181.209.38.162:8000/play/a01o
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 4.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
+http://45.5.151.62:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
-http://181.209.38.162:8000/play/a033
+http://45.5.151.62:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS ARGENTINA.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes", FOX Sports
-http://181.209.38.162:8000/play/a01p
+http://45.5.151.62:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="Deportes", FOX Sports 2
-http://181.209.38.162:8000/play/a00d
+http://45.5.151.62:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="Deportes", FOX Sports 3
-http://181.209.38.162:8000/play/a034
+http://45.5.151.62:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="DaznF1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzTT4DVzx1LthguqZf7i3SWYcSG0ACQttJg&s" group-title="Deportes", DAZN F1
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/145
@@ -68,158 +69,156 @@ http://179.60.224.196:8000/play/a0i7/index.m3u8
 
 # --- NACIONALES ---
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-26-ar.png?raw=true" group-title="Nacionales", 26TV
-http://181.209.38.162:8000/play/a026
+http://45.5.151.62:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Nacionales", A24 
-http://181.209.38.162:8000/play/a023
+http://45.5.151.62:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/c5n-ar.png?raw=true" group-title="Nacionales", C5N 
-http://181.209.38.162:8000/play/a024
+http://45.5.151.62:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Nacionales", TN HD 
-http://181.209.38.162:8000/play/a00s
+http://45.5.151.62:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/television-publica-ar.png?raw=true" group-title="Nacionales", TV Publica HD 
-http://181.209.38.162:8000/play/a008
+http://45.5.151.62:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/elnueve-ar.png?raw=true" group-title="Nacionales", El Nueve HD 
-http://181.209.38.162:8000/play/a004
+http://45.5.151.62:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true" group-title="Nacionales", Crónica 
-http://181.209.38.162:8000/play/a025
+http://45.5.151.62:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="LA NACION+.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true" group-title="Nacionales", La Nacion TV 
-http://181.209.38.162:8000/play/a027
+http://45.5.151.62:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="MAGAZINE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true" group-title="Nacionales", Ciudad Magazine
-http://181.209.38.162:8000/play/a02t
+http://45.5.151.62:8000/play/a01d/index.m3u8
 
 # --- CINE ---
 #EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true" group-title="Cine", A&E HD
-http://181.209.38.162:8000/play/a00j
+http://45.5.151.62:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="Cine", AMC
-http://181.209.38.162:8000/play/a02b
+http://45.5.151.62:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="Cine", AXN HD
-http://181.209.38.162:8000/play/a00g
+http://45.5.151.62:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEARTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cine-ar-ar.png?raw=true" group-title="Cine", Cine.AR
-http://181.209.38.162:8000/play/a02g
+
 
 #EXTINF:-1 tvg-id="CINECANAL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cine-canal-ar.png?raw=true" group-title="Cine", Cinecanal HD
-http://181.209.38.162:8000/play/a01s
+http://45.5.151.62:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cinemax-ar.png?raw=true" group-title="Cine", Cinemax
-http://181.209.38.162:8000/play/a00o
+http://45.5.151.62:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="Cine", Comedy Central HD
-http://181.209.38.162:8000/play/a038
 
-#EXTINF:-1 tvg-id="EUROPA EUROPA.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/europa-europa-ar.png?raw=true" group-title="Cine", Europa Europa
-http://181.209.38.162:8000/play/a01f
 
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fx-ar.png?raw=true" group-title="Cine", FX HD
-http://181.209.38.162:8000/play/a036
+http://45.5.151.62:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="Cine", HBO 
-http://181.209.38.162:8000/play/a018
+http://45.5.151.147:8000/play/a00z/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="Cine", HBO 2 
-http://181.209.38.162:8000/play/a01a
+http://45.5.151.147:8000/play/a010/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" group-title="Cine", HBO Family
-http://181.209.38.162:8000/play/a01b
+http://45.5.151.147:8000/play/a011/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true" group-title="Cine", HBO Mundi 
-http://181.209.38.162:8000/play/a02m
+http://45.5.151.147:8000/play/a012/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png?raw=true" group-title="Cine", HBO Plus 
-http://181.209.38.162:8000/play/a019
+http://45.5.151.147:8000/play/a013/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png?raw=true" group-title="Cine", HBO Signature 
-http://181.209.38.162:8000/play/a02o
+http://181.13.252.102:8000/play/a02c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true" group-title="Cine", HBO Xtreme
-http://181.209.38.162:8000/play/a02n
+http://181.13.252.102:8000/play/a02b/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SONY.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true" group-title="Cine", Sony Channel HD
-http://181.209.38.162:8000/play/a00e
+http://45.5.151.62:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true" group-title="Cine", Space HD 
-http://181.209.38.162:8000/play/a037
+http://45.5.151.62:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-channel-ar.png?raw=true" group-title="Cine", Star Channel HD 
-http://181.209.38.162:8000/play/a01r
+http://45.5.151.62:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/studio-universal-ar.png?raw=true" group-title="Cine", Studio Universal
-http://181.209.38.162:8000/play/a02e
+http://45.5.151.62:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tcm-ar.png?raw=true" group-title="Cine", TCM
-http://181.209.38.162:8000/play/a02c
+http://45.5.151.62:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="Cine", TNT HD
-http://181.209.38.162:8000/play/a01u
+http://45.5.151.62:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="Cine", TNT Novelas HD
-http://181.209.38.162:8000/play/a01x
+http://45.5.151.62:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-series-ar.png?raw=true" group-title="Cine", TNT Series HD
-http://181.209.38.162:8000/play/a01v
+http://45.5.151.62:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true" group-title="Cine", Universal HD
-http://181.209.38.162:8000/play/a00k
+http://45.5.151.62:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/warner-channel-ar.png?raw=true" group-title="Cine", Warner Channel HD
-http://181.209.38.162:8000/play/a00f
+
 
 
 # --- VARIEDADES ---
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-channel-ar.png?raw=true" group-title="Variedades", Discovery Channel HD 
-http://181.209.38.162:8000/play/a01z
+http://45.5.151.62:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME and GARDEN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-home-and-health-ar.png?raw=true" group-title="Variedades", Discovery H&H HD
-http://181.209.38.162:8000/play/a01y
+http://45.5.151.62:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-kids-ar.png?raw=true" group-title="Variedades", Discovery Kids
-http://181.209.38.162:8000/play/a01d
+http://45.5.151.62:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-science-ar.png?raw=true" group-title="Variedades", Discovery Science
-http://181.209.38.162:8000/play/a02w
+
 
 #EXTINF:-1 tvg-id="DISCOVERY THEATER.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-theater-hd-ar.png?raw=true" group-title="Variedades", Discovery Theater HD
-http://181.209.38.162:8000/play/a03a
+
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-turbo-ar.png?raw=true" group-title="Variedades", Discovery Turbo
-http://181.209.38.162:8000/play/a029
+
 
 #EXTINF:-1 tvg-id="DISCOVERY WORLD.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/discovery-world-hd-ar.png?raw=true" group-title="Variedades", Discovery World HD
-http://181.209.38.162:8000/play/a03c
+
 
 #EXTINF:-1 tvg-id="E! ENTERTAINMENT.ar" tvg-logo="https://www.kindpng.com/picc/m/328-3283171_transparent-entertainment-png-e-entertainment-logo-transparent-png.png" group-title="Variedades", E! Entertainment
-http://181.209.38.162:8000/play/a00n
+
 
 #EXTINF:-1 tvg-id="HISTORY 2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-channel-2-ar.png?raw=true" group-title="Variedades", History 2
-http://181.209.38.162:8000/play/a02u
+
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/history-channel-ar.png?raw=true" group-title="Variedades", History Channel
-http://181.209.38.162:8000/play/a00r
+
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/mtv-ar.png?raw=true" group-title="Variedades", MTV
-http://181.209.38.162:8000/play/a02y
+
 
 #EXTINF:-1 tvg-id="NAT GEO.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/national-geographic-ar.png?raw=true" group-title="Variedades", Nat Geo HD
-http://181.209.38.162:8000/play/a00h
+http://45.5.151.62:8000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nick-jr-ar.png?raw=true" group-title="Variedades", Nick Jr
-http://181.209.38.162:8000/play/a01e
+
 
 #EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/nickelodeon-ar.png?raw=true" group-title="Variedades", Nickelodeon
-http://181.209.38.162:8000/play/a00q
+
 
 #EXTINF:-1 tvg-id="QUIERO.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/quiero-musica-en-mi-idioma-ar.png?raw=true" group-title="Variedades", Quiero Musica
-http://181.209.38.162:8000/play/a02z
+
+
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1 FHD" tvg-logo="https://images.open-epg.com/12901077.png" group-title="ESPAÑA",La 1
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbGTjscqNpPp3DsBbZnCWFYVTyHeU_dF9UhdFQDAKmm5f/ts
