@@ -1,9 +1,10 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina1.xml"
 
-#EXTINF:-1 tvg-id="AMERICA TV.ar" group-title="NACIONALES", 123 AMERICA TV
+#EXTINF:-1 tvg-id="AMERICA TV.ar" group-title="NACIONALES", 111 AMERICA TV
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.21K50a (Apple TV; iPhone OS 17.4)
+#EXTVLCOPT:http-referrer=https://web.flow.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTHTTP:{"User-Agent":"AppleCoreMedia/1.0.0.21K50a (Apple TV; iPhone OS 17.4)","Referer":"https://web.flow.com.ar/"}
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 
 #EXTINF:-1 tvg-id="AMERICA TV.ar" group-title="NACIONALES", AMERICA TV
