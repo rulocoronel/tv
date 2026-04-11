@@ -1,4 +1,10 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina1.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina1.xml"
+
+#EXTINF:-1 tvg-id="AMERICA TV.ar" group-title="NACIONALES", AMERICA TV PRUEBA APPLETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 
 #EXTINF:-1 tvg-id="AMERICA TV.ar" group-title="NACIONALES", AMERICA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
