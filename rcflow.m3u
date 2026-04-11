@@ -1,36 +1,36 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina1.xml" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-#EXTINF:-1 tvg-id="AMERICA TV.ar" group-title="NACIONALES", AMERICA TV
+#EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" group-title="NACIONALES", AMERICA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="Telefe.ar" group-title="NACIONALES", TELEFE
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png?raw=true" group-title="NACIONALES", TELEFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_cenc/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="TV PUBLICA.ar" group-title="NACIONALES", TV PUBLICA
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/television-publica-ar.png?raw=true" group-title="NACIONALES", TV PUBLICA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_cenc/Canal7.mpd
 
-#EXTINF:-1 tvg-id="EL TRECE.ar" group-title="NACIONALES", EL TRECE
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="NACIONALES", EL TRECE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_cenc/ArtearHD.mpd
 
-#EXTINF:-1 tvg-id="EL NUEVE.ar" group-title="NACIONALES", EL NUEVE
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/elnueve-ar.png?raw=true" group-title="NACIONALES", EL NUEVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_cenc/Canal9.mpd
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" group-title="DEPORTES", ESPN PREMIUM
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="DEPORTES", ESPN PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="DEPORTES", TNT SPORTS
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="DEPORTES", TNT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd
@@ -45,27 +45,27 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_cenc/TyC_Int
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_cenc/DeporTVHD.mpd
 
-#EXTINF:-1 tvg-id="TYC SPORTS.ar" group-title="DEPORTES", TyC SPORTS
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="DEPORTES", TyC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.mpd
 
-#EXTINF:-1 tvg-id="ESPN.ar" group-title="DEPORTES", ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="DEPORTES", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_cenc/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="DEPORTES", ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_cenc/ESPN2_Arg.mpd
 
-#EXTINF:-1 tvg-id="ESPN 3.ar" group-title="DEPORTES", ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="DEPORTES", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
 https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_cenc/ESPN3.mpd
 
-#EXTINF:-1 tvg-id="ESP 4.ar" group-title="DEPORTES", ESPN 4
+#EXTINF:-1 tvg-id="ESP 4.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="DEPORTES", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd
@@ -75,17 +75,17 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_cenc/ESPN4.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS ARGENTINA.ar" group-title="DEPORTES", FOX SPORTS
+#EXTINF:-1 tvg-id="FOX SPORTS ARGENTINA.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="DEPORTES", FOX SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_cenc/FoxSports.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.ar" group-title="DEPORTES", FOX SPORTS 2 
+#EXTINF:-1 tvg-id="FOX SPORTS 2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="DEPORTES", FOX SPORTS 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_cenc/FoxSports2HD.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.ar" group-title="DEPORTES", FOX SPORTS 3 
+#EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="DEPORTES", FOX SPORTS 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_cenc/FoxSports3HD.mpd
@@ -120,37 +120,37 @@ https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_cenc/America_Sp
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_cenc/Metro.mpd
 
-#EXTINF:-1 tvg-id="TN.ar" group-title="NOTICIAS", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="NOTICIAS", TN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_cenc/TodoNoticias.mpd
 
-#EXTINF:-1 tvg-id="LA NACION+.ar" group-title="NOTICIAS", LA NACION +
+#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/la-nacion-mas-ar.png?raw=true" group-title="NOTICIAS", LA NACION +
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_cenc/La_Nacion.mpd
 
-#EXTINF:-1 tvg-id="C5N.ar" group-title="NOTICIAS", C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/c5n-ar.png?raw=true" group-title="NOTICIAS", C5N
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_cenc/C5N.mpd
 
-#EXTINF:-1 tvg-id="CRONICA TV.ar" group-title="NOTICIAS", CRONICA TV
+#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cronica-hd-ar.png?raw=true" group-title="NOTICIAS", CRONICA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_cenc/CronicaTV.mpd
 
-#EXTINF:-1 tvg-id="Canal 26.ar" group-title="NOTICIAS", CANAL 26
+#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/canal-26-ar.png?raw=true" group-title="NOTICIAS", CANAL 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_cenc/26_TV_HD.mpd
 
-#EXTINF:-1 tvg-id="A24.ar" group-title="NOTICIAS", A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="NOTICIAS", A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_cenc/America24.mpd
 
-#EXTINF:-1 tvg-id="MAGAZINE.ar" group-title="NOTICIAS", CIUDAD MAGAZINE
+#EXTINF:-1 tvg-id="MAGAZINE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/ciudad-magazine-ar.png?raw=true" group-title="NOTICIAS", CIUDAD MAGAZINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_cenc/Magazine.mpd
@@ -235,7 +235,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_cenc/Flow_Music_2
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_cenc/INCAA_Tv.mpd
 
-#EXTINF:-1 tvg-id="Cinemax.ar" group-title="CINE Y SERIES", CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cinemax-ar.png?raw=true" group-title="CINE Y SERIES", CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_cenc/Cinemax.mpd
@@ -245,67 +245,67 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_cenc/Cinemax.mpd
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_cenc/Volver.mpd
 
-#EXTINF:-1 tvg-id="Space.ar" group-title="CINE Y SERIES", SPACE
+#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/space-ar.png?raw=true" group-title="CINE Y SERIES", SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_cenc/Space.mpd
 
-#EXTINF:-1 tvg-id="Cinecanal.ar" group-title="CINE Y SERIES", CINECANAL
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/cine-canal-ar.png?raw=true" group-title="CINE Y SERIES", CINECANAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_cenc/CinecanalHD.mpd
 
-#EXTINF:-1 tvg-id="TNT.ar" group-title="CINE Y SERIES", TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="CINE Y SERIES", TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_cenc/TNT_HD_Arg.mpd
 
-#EXTINF:-1 tvg-id="TNT SERIES.ar" group-title="CINE Y SERIES", TNT SERIES
+#EXTINF:-1 tvg-id="TNT SERIES.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-series-ar.png?raw=true" group-title="CINE Y SERIES", TNT SERIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
 https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_cenc/TNTSeries.mpd
 
-#EXTINF:-1 tvg-id="FX.ar" group-title="CINE Y SERIES", FX
+#EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fx-ar.png?raw=true" group-title="CINE Y SERIES", FX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_cenc/FXHD.mpd
 
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" group-title="CINE Y SERIES", STAR CHANNEL
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-channel-ar.png?raw=true" group-title="CINE Y SERIES", STAR CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_cenc/FOXHD.mpd
 
-#EXTINF:-1 tvg-id="Sony.ar" group-title="CINE Y SERIES", SONY
+#EXTINF:-1 tvg-id="Sony.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true" group-title="CINE Y SERIES", SONY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_cenc/SonyHD.mpd
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" group-title="CINE Y SERIES", WARNER
+#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/warner-channel-ar.png?raw=true" group-title="CINE Y SERIES", WARNER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" group-title="CINE Y SERIES", UNIVERSAL TV
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/universal-tv-ar.png?raw=true" group-title="CINE Y SERIES", UNIVERSAL TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_cenc/Universal_Channel_HD.mpd
 
-#EXTINF:-1 tvg-id="AXN.ar" group-title="CINE Y SERIES", AXN
+#EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/axn-ar.png?raw=true" group-title="CINE Y SERIES", AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_cenc/AXNHD.mpd
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" group-title="CINE Y SERIES", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/studio-universal-ar.png?raw=true" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_cenc/Studio_Universal.mpd
 
-#EXTINF:-1 tvg-id="AandE.ar" group-title="CINE Y SERIES", A&E
+#EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a-and-e-ar.png?raw=true" group-title="CINE Y SERIES", A&E
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_cenc/AEHD.mpd
 
-#EXTINF:-1 tvg-id="EUROPA EUROPA.ar" group-title="CINE Y SERIES", EUROPA EUROPA
+#EXTINF:-1 tvg-id="EUROPA EUROPA.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/europa-europa-ar.png?raw=true" group-title="CINE Y SERIES", EUROPA EUROPA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
 https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_cenc/Europa_Europa.mpd
@@ -315,12 +315,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_cenc/Europa_Euro
 #KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_cenc/USA_Network.mpd
 
-#EXTINF:-1 tvg-id="TCM.ar" group-title="CINE Y SERIES", TCM
+#EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tcm-ar.png?raw=true" group-title="CINE Y SERIES", TCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_cenc/TCM.mpd
 
-#EXTINF:-1 tvg-id="AMC.ar" group-title="CINE Y SERIES", AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/amc-ar.png?raw=true" group-title="CINE Y SERIES", AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_cenc/AMC.mpd
@@ -355,7 +355,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_cenc/Eurochannel.m
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
 https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_cenc/ID.mpd
 
-#EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" group-title="CINE Y SERIES", COMEDY CENTRAL
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/comedy-central-ar.png?raw=true" group-title="CINE Y SERIES", COMEDY CENTRAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
 https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_cenc/ComedyCentral.mpd
@@ -400,22 +400,22 @@ https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_cenc/Telenovelas.m
 #KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
 https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_cenc/Adult_Swim.mpd
 
-#EXTINF:-1 tvg-id="HBO.ar" group-title="HBO", HBO
+#EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-ar.png?raw=true" group-title="HBO", HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
 https://cdn.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd
 
-#EXTINF:-1 tvg-id="HBO 2.ar" group-title="HBO", HBO 2
+#EXTINF:-1 tvg-id="HBO 2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-2-ar.png?raw=true" group-title="HBO", HBO 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
 https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_cenc/HBO_2.mpd
 
-#EXTINF:-1 tvg-id="HBO Plus.ar" group-title="HBO", HBO PLUS
+#EXTINF:-1 tvg-id="HBO Plus.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png?raw=true" group-title="HBO", HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_cenc/HBO_Plus.mpd
 
-#EXTINF:-1 tvg-id="HBO Mundi.ar" group-title="HBO", HBO MUNDI
+#EXTINF:-1 tvg-id="HBO Mundi.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-mundi-ar.png?raw=true" group-title="HBO", HBO MUNDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_cenc/HBO_Mundi.mpd
@@ -425,17 +425,17 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_cenc/HBO_Mundi.mpd
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_cenc/HBO_POP.mpd
 
-#EXTINF:-1 tvg-id="HBO Xtreme.ar" group-title="HBO", HBO EXTREME
+#EXTINF:-1 tvg-id="HBO Xtreme.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true" group-title="HBO", HBO XTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_cenc/HBO_Extreme.mpd
 
-#EXTINF:-1 tvg-id="HBO Family.ar" group-title="HBO", HBO FAMILY
+#EXTINF:-1 tvg-id="HBO Family.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-family-ar.png?raw=true" group-title="HBO", HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_cenc/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature.ar" group-title="HBO", HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO Signature.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png?raw=true" group-title="HBO", HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_cenc/HBO_Signature.mpd
@@ -465,7 +465,7 @@ https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_cenc/universal
 #KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_cenc/Universal_Reality.mpd
 
-#EXTINF:-1 tvg-id="Nat Geo.ar" group-title="DOCUMENTALES", NAT GEOD
+#EXTINF:-1 tvg-id="Nat Geo.ar" group-title="DOCUMENTALES", NAT GEO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
 https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_cenc/NatGeoHD.mpd
